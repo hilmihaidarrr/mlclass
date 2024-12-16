@@ -1,0 +1,4 @@
+activation_function,avg_loss
+relu,8.552437464396158
+sigmoid,12.402194658915201
+tanh,10.830440521240234
